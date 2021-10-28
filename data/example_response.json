@@ -1,0 +1,617 @@
+{
+  "pdp_listing_detail": {
+    "listing_amenities": [
+      {
+        "description": "Available throughout the listing",
+        "id": 4,
+        "is_present": true,
+        "name": "Wifi"
+      },
+      {
+        "description": "Space where guests can cook their own meals",
+        "id": 8,
+        "is_present": true,
+        "name": "Kitchen"
+      },
+      { "description": "", "id": 45, "is_present": true, "name": "Hair dryer" },
+      { "description": "", "id": 30, "is_present": true, "name": "Heating" },
+      { "description": "", "id": 1, "is_present": true, "name": "TV" },
+      { "description": "", "id": 41, "is_present": false, "name": "Shampoo" },
+      {
+        "description": "",
+        "id": 40,
+        "is_present": false,
+        "name": "Essentials"
+      },
+      { "description": "", "id": 85, "is_present": true, "name": "Bed linens" },
+      { "description": "", "id": 33, "is_present": false, "name": "Washer" },
+      {
+        "description": "",
+        "id": 5,
+        "is_present": false,
+        "name": "Air conditioning"
+      },
+      {
+        "description": "",
+        "id": 36,
+        "is_present": true,
+        "name": "Carbon monoxide alarm"
+      },
+      {
+        "description": "",
+        "id": 35,
+        "is_present": true,
+        "name": "Smoke alarm"
+      },
+      { "description": "", "id": 92, "is_present": true, "name": "Dishwasher" },
+      { "description": "", "id": 89, "is_present": true, "name": "Microwave" },
+      { "description": "", "id": 95, "is_present": true, "name": "Oven" },
+      {
+        "description": "",
+        "id": 91,
+        "is_present": true,
+        "name": "Refrigerator"
+      },
+      {
+        "description": "Separate street or building entrance",
+        "id": 57,
+        "is_present": true,
+        "name": "Private entrance"
+      },
+      {
+        "description": "",
+        "id": 100,
+        "is_present": true,
+        "name": "Patio or balcony"
+      }
+    ],
+    "root_amenity_sections": [
+      {
+        "id": "available_amenities",
+        "title": "Amenities",
+        "subtitle": "",
+        "amenity_ids": [4, 8, 45, 30]
+      }
+    ],
+    "see_all_amenity_sections": [
+      {
+        "id": "pdp_m2_5_bathroom",
+        "title": "Bathroom",
+        "subtitle": "",
+        "amenity_ids": [45]
+      },
+      {
+        "id": "pdp_m2_5_bedroom_laundry",
+        "title": "Bedroom and laundry",
+        "subtitle": "",
+        "amenity_ids": [85]
+      },
+      {
+        "id": "pdp_m2_5_entertainment",
+        "title": "Entertainment",
+        "subtitle": "",
+        "amenity_ids": [1]
+      },
+      {
+        "id": "pdp_m2_5_heating_cooling",
+        "title": "Heating and cooling",
+        "subtitle": "",
+        "amenity_ids": [30]
+      },
+      {
+        "id": "pdp_m2_5_home_safety",
+        "title": "Home safety",
+        "subtitle": "",
+        "amenity_ids": [36, 35]
+      },
+      {
+        "id": "pdp_m2_5_internet_office",
+        "title": "Internet and office",
+        "subtitle": "",
+        "amenity_ids": [4]
+      },
+      {
+        "id": "pdp_m2_5_kitchen_dining",
+        "title": "Kitchen and dining",
+        "subtitle": "",
+        "amenity_ids": [8, 92, 89, 95, 91]
+      },
+      {
+        "id": "pdp_m2_5_location",
+        "title": "Location features",
+        "subtitle": "",
+        "amenity_ids": [57]
+      },
+      {
+        "id": "pdp_m2_5_outdoor",
+        "title": "Outdoor",
+        "subtitle": "",
+        "amenity_ids": [100]
+      },
+      {
+        "id": "pdp_unavailable",
+        "title": "Not included",
+        "subtitle": "",
+        "amenity_ids": [41, 40, 33, 5]
+      }
+    ],
+    "bathroom_label": "1 bath",
+    "bed_label": "3 beds",
+    "bedroom_label": "2 bedrooms",
+    "guest_label": "4 guests",
+    "has_house_rules": true,
+    "id": 33090114,
+    "is_new_listing": false,
+    "listing_rooms": [
+      {
+        "beds": [
+          { "id": "38415381/single_bed", "quantity": 2, "type": "single_bed" }
+        ],
+        "id": 38415381,
+        "room_number": 2
+      },
+      {
+        "beds": [
+          { "id": "38415376/king_bed", "quantity": 1, "type": "king_bed" }
+        ],
+        "id": 38415376,
+        "room_number": 1
+      }
+    ],
+    "p3_summary_address": "Kirroughtree, United Kingdom",
+    "p3_summary_title": "Birch Lodge 16, Newton Stewart",
+    "photos": [
+      {
+        "caption": "",
+        "id": 932383168,
+        "large": "https://a0.muscache.com/im/pictures/b08f3dca-2016-438a-afb0-1ae3b5b6bc1a.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AbC0rPb0/BUODgwWFhYWEwE5NTEpISHn8vX37NtGXSYBzce15Nrc6ODb4fDY/yndAcrKdAD7Qfr5/f7+//8A+ujCJF75VFusAAAAAElFTkSuQmCC",
+        "scrim_color": "#251C15",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383236,
+        "large": "https://a0.muscache.com/im/pictures/8433829b-6b79-484d-a213-7ffc5ae69e9e.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AX5jS/jy8BkZGwb9+xQZFgGpm4cKBf4TGSbr7fIMDQoBamxx9uzs5+/6CQ0MYFRCASk1PRMPFyMTASIlGPH0Bk0iGALVyVd+AAAAAElFTkSuQmCC",
+        "scrim_color": "#2E2329",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383257,
+        "large": "https://a0.muscache.com/im/pictures/cf084488-ba28-4430-8279-c7e2068c026f.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AYJUHQsNCwMHCQkAAM72HAHFj0bw7+/1AAklJSvsKzYBTy8YTDgZAxsxAQ0eqrG9ARwMCGFJGzZANwMF8sfO8T6NEycBSw2fAAAAAElFTkSuQmCC",
+        "scrim_color": "#1E0B0D",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383297,
+        "large": "https://a0.muscache.com/im/pictures/c592bd9c-0641-4c57-90b2-ccd9f7442bfa.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWNMd5Lg5uYSYGN+wSQhbuXNWOkmIiIjbWmocpdZ7YeEAGOMqYSEgpKCvv31K1cfPH3M2BilwS8o8Pm3sDDf669/uQDiChNkyBCU6wAAAABJRU5ErkJggg==",
+        "scrim_color": "#2D1813",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383338,
+        "large": "https://a0.muscache.com/im/pictures/559a1ed8-abac-4de3-b04a-f789c7c096b2.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AUhOQjkXBRINDwUA+efq8QGhvJz2xcYuKyz+8OLMztgBf3d2KCgZ+uDW9vHnzdffAUAxLgHr6jcxLDdLRdrW1K+UH4uXENZMAAAAAElFTkSuQmCC",
+        "scrim_color": "#211515",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383393,
+        "large": "https://a0.muscache.com/im/pictures/d071d808-7fe3-4967-a123-e40ff9f3f755.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWPMsFZgZWP7/vZDsI/FrhvvGFd0RPNxi/xhZGRl577zgYEx3tf1N4coKwuDv43O40+sjAYGZlLcf8R4WGQl2flVjAG42hLAdfW6IwAAAABJRU5ErkJggg==",
+        "scrim_color": "#301C1B",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383431,
+        "large": "https://a0.muscache.com/im/pictures/01bac393-56ce-4e16-b1db-2ba93d1abe66.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASElEQVQIHWNsy/HlF+H78ouRl/uvm6sFY1lygrmJ6K/v7xmYmd38QxlD3N0lhFkUZEXllZWt7a0Y7UyNNRQEDdQk7T28OPmEAFeUD6kqLGHSAAAAAElFTkSuQmCC",
+        "scrim_color": "#2A1C19",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383491,
+        "large": "https://a0.muscache.com/im/pictures/4276b21b-2f9e-4d69-a86a-48c2e83d55a6.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//ATI9GCgjIhYVIPX08+vx4QFlZzofIBUaFRv39fjU19cBsKd6t73d6OnxCAgCSkcWAXRuZAYDA+3v8O7x9AIB+HGZHXAeyNW5AAAAAElFTkSuQmCC",
+        "scrim_color": "#1D2113",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383559,
+        "large": "https://a0.muscache.com/im/pictures/733bbba3-cfca-4914-a6f8-84df6002da78.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AUpMK+rs8AIFBh0aDezw8wGRi1UBAQEEAxHv7f0jIxQBdXNR6uX98vX++/7/RUgSAVdSSfP0+wwLDBweCT1ACl0MGq2+lKFgAAAAAElFTkSuQmCC",
+        "scrim_color": "#212517",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383606,
+        "large": "https://a0.muscache.com/im/pictures/5e58e7a7-8f67-485c-8079-43ebab8e74b1.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AVBbSQkIEvz68gIMCvLv7gGDkn0UCh7x7eHb5t7v8uwBLi8lExMSKiYfCBEGEhEMAW9qVQH8/wsICQ4SFAEA/0ahFtXpBKZPAAAAAElFTkSuQmCC",
+        "scrim_color": "#1B201A",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383650,
+        "large": "https://a0.muscache.com/im/pictures/9190ac5b-bcb4-4a4e-9186-660f5c8ccd30.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAACCAIAAAAfCIEKAAAAKUlEQVQIHWOMCHeQEeD/zvyfk4vx97tPjLb2+q6SAne+Mt75882RkxUAs6MMHaED9MEAAAAASUVORK5CYII=",
+        "scrim_color": "#232E2A",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 2.1398148148148146
+      },
+      {
+        "caption": "",
+        "id": 932383683,
+        "large": "https://a0.muscache.com/im/pictures/96a7e120-a345-436b-8d0f-980756aaf51b.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AauQcO3i5CcrKOXo6foDBwGaj4ELCAv88OYYJzX8Bg8BWmBn9eLc+gcS/AwZYVpNAV5USBMOD/T3/u3t7jk5M8V9HUYgj+TCAAAAAElFTkSuQmCC",
+        "scrim_color": "#2D2530",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383747,
+        "large": "https://a0.muscache.com/im/pictures/75ff9bd0-b0f8-466f-92a9-30a70e04af2f.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//ATc5KDUQ/hoRDgX/+v//+wGfqX7yz9EXCwwuJRXTy80BcWxTDQMJKRL1GQH9ztXaAbOnnvjv6LiuqhsTCA4RDXPLG68Ab2A6AAAAAElFTkSuQmCC",
+        "scrim_color": "#2C150F",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383801,
+        "large": "https://a0.muscache.com/im/pictures/0e527ae0-38a0-4203-a173-ef8e2d426908.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AV5NKgwODgIBBPPv9+8IHAGpjlvZ3+YeJS75Aw/6IBwBcFU1BgoEEChB2tzu5ergAR0TDVlULBcjLv8B97e319nzGGvYlx6FAAAAAElFTkSuQmCC",
+        "scrim_color": "#1E1413",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383841,
+        "large": "https://a0.muscache.com/im/pictures/ff1c23e9-b2dd-42f0-8e2e-8cf0b18b2a07.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AWo+H/D1/jE7MtLe3//19AGghGnQ1tsoPEru8+svG/wBWUAz5OzxJiQl1NzdEw0LAQwJCjAqJwYNEtzY1vP09De5H3D1GZRFAAAAAElFTkSuQmCC",
+        "scrim_color": "#12090A",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383916,
+        "large": "https://a0.muscache.com/im/pictures/230908cb-5d1f-43f4-9b50-586518800cca.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AaJxRfHu8yUrJObo7QUREQG8oX/r6vQE/PESIDL5AwsBQ0NHEfPn/hklBhEZbltGAUk4LSUZD+70/AT99lBcX6h7G5RMdgmoAAAAAElFTkSuQmCC",
+        "scrim_color": "#312323",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932383986,
+        "large": "https://a0.muscache.com/im/pictures/cbae2a1d-7ee2-4122-8ca3-5087d61c5efa.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWMMcrdlenLf2dH01KUb7FJKjG5efv5qf/X1NB69/vyRUYgxLDqJi/G3hoaajDjPnYfvGC3tXHW11YyNjUVEBZuauwDq8RW+mzyz0gAAAABJRU5ErkJggg==",
+        "scrim_color": "#1E141C",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.3333333333333333
+      },
+      {
+        "caption": "",
+        "id": 932384060,
+        "large": "https://a0.muscache.com/im/pictures/ab774f5f-d5df-4047-964a-baeb163493d6.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAPUlEQVQIHWP8////169fubm5GcCA8f///8+f3/v0+YMwn5iIhAzj////nzy5zsT0+f9PAWlFNcb/MMAIBgA19SD5GC03CAAAAABJRU5ErkJggg==",
+        "scrim_color": "#050505",
+        "is_professional": false,
+        "picture_orientation": "LANDSCAPE",
+        "aspect_ratio": 1.4145833333333333
+      },
+      {
+        "caption": "",
+        "id": 1058938181,
+        "large": "https://a0.muscache.com/im/pictures/a75d4a09-d519-485f-887c-707d9c30e4bf.jpg?aki_policy=large",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAAACDbGyAAAAW0lEQVQIHQFQAK//Afrk5+K5wLa9vFBJShg/OQHxsrzGBfuDg4OCbHAv5/IB87vE+yYfhVJaW3FuJhYZAeyWpJ7Bu6rc1FZXV2coMgH64ubnwMYABwUB+/0XPTe5BChswkrccAAAAABJRU5ErkJggg==",
+        "scrim_color": "#020202",
+        "is_professional": false,
+        "picture_orientation": "SQUARE",
+        "aspect_ratio": 1.0
+      }
+    ],
+    "primary_host": {
+      "about": "Founded in 2018, TravelNest advertises vacation rental properties on behalf of owners. From cottages and lodges to luxury apartments and villas, we have thousands of properties in more than 30 countries worldwide. Whether you are travelling for business or taking a break with friends and family, our varied property portfolio offers something for everyone.  \n\nWhen you book with TravelNest, we’ll make every effort to ensure you enjoy your stay. Our UK based bookings and customer service teams are on hand to help. Please get in touch with us if you have any questions about our properties and we’ll do our best to help. \n\nTake a look at our properties and book your next stay with TravelNest.\n",
+      "badges": [
+        {
+          "count": 4116,
+          "id": "reviews",
+          "label": "4,116 Reviews",
+          "link": "/users/show/310835509#reviews"
+        },
+        { "id": "identity-verified", "label": "Identity verified" }
+      ],
+      "first_name": "TravelNest",
+      "id": 310835509,
+      "is_superhost": false,
+      "member_since_full_str": "Joined in November 2019",
+      "name": "TravelNest",
+      "languages": ["English"],
+      "picture_url": "https://a0.muscache.com/im/pictures/user/635f5588-53ad-4fba-96a2-45edff6e08f9.jpg?aki_policy=profile_x_medium",
+      "response_rate_without_na": "98%",
+      "response_time_without_na": "within an hour",
+      "has_inclusion_badge": false,
+      "picture_large_url": "https://a0.muscache.com/im/pictures/user/635f5588-53ad-4fba-96a2-45edff6e08f9.jpg?aki_policy=profile_large",
+      "host_intro_tags": ["4,116 reviews", "Verified"]
+    },
+    "room_and_property_type": "Entire residential home",
+    "room_type_category": "entire_home",
+    "sectioned_description": {
+      "author_type": "human",
+      "description": "With stunning views around the park the charming Birch Lodges are the perfect place to escape and unwind. \nSituated on the outskirts of Newton Stewart, with the backdrop of the Galloway Forest Park on one side and bordered by the Golf Course on the other, this is the ideal base for a family holiday or a romantic break. The forest itself is a paradise for nature lovers and within easy reach of superb fishing, walking and mountain biking.\nBirch Lodges sleep up to 4 in one King Bedroom and one Twin Bedroom with a family bathroom. The Birch Lodges boast a fully equipped kitchen with dishwasher which opens out an open plan dining/living room (with TV and DVD player). Each lodge has an enclosed decking around the front and side with featuring patio furniture. \n \t\t\nServices: \nSleeps up to 4\n1 king bedroom\n1 twin bedroom\n1 family bathroom with shower over bath\nOpen plan kitchen/dining/living area\nFully fitted kitchen with dishwasher\nFreeview TV and DVD player\nOutdoor private decking and patio furniture\nFree Wi-Fi (We have free Wi-Fi in all of our properties and you will find the password in your welcome book. Please note that we cannot guarantee the signal strength or quality. Bookings should not be made if they are wholly reliant upon the uninterrupted provision of Wi-Fi)\n\n\nThings you need to know:\nCheck in: 4pm\nCheck out: 10am\nRenters must be aged 21 or over\nBirch Lodge 16 DOES NOT have a hot tub\nBirch Lodge 16 is a Pet Free Lodge\n\nOptional/Extra Charges (available on request) Paid Direct to Owner\nEarly check in/late check out available at £20 each- (On Request to Owner Only)\nHigh chair/ travel cot hire - £10 each\n2 x disposable BBQ - £8\nChampagne and chocolates - £45\nProsecco and chocolates - £25\nRose petals - £8\n\nFloor Plan: \nAll on one level\n\n Size: 58 m2. \n \nAmenities: Hair Dryer, Dishwasher, kettle, TV, Balcony, cooking hob, oven, microwave, toaster, fridge, freezer, separate entry, Towels, Private parking, Bed Linen, No Pets Allowed, Smoke Detectors, Heating, Wireless Internet, Rare view, Carbon Monoxide Detector; \nBathroom: toilet, bath with shower; \nBedroom: king size bed; \nBedroom: 2 x single bed;",
+      "house_rules": "Pets not allowed.",
+      "locale": "en",
+      "localized_language_name": "English",
+      "name": "Birch Lodge 16, Newton Stewart",
+      "summary": "With stunning views around the park the charming Birch Lodges are the perfect place to escape and unwind. \nSituated on the outskirts of Newton Stewart, with the backdrop of the Galloway Forest Park on one side and bordered by the Golf Course on the other, this is the ideal base for a family holiday or a romantic break. The forest itself is a paradise for nature lovers and within easy reach of superb fishing, walking and mountain biking.\nBirch Lodges sleep up to 4 in one King Bedroom and one Twin Bedroom with a family bathroom. The Birch Lodges boast a fully equipped kitchen with dishwasher which opens out an open plan dining/living room (with TV and DVD player). Each lodge has an enclosed decking around the front and side with featuring patio furniture. \n \t\t\nServices: \nSleeps up to 4\n1 king bedroom\n1 twin bedroom\n1 family bathroom with shower over bath\nOpen plan kitchen/dining/living area\nFully fitted kitchen with dishwasher\nFreeview TV and DVD player\nOutdoor private decking and patio furniture\nFree Wi-Fi (We have free Wi-Fi in all of our properties and you will find the password in your welcome book. Please note that we cannot guarantee the signal strength or quality. Bookings should not be made if they are wholly reliant upon the uninterrupted provision of Wi-Fi)\n\n\nThings you need to know:\nCheck in: 4pm\nCheck out: 10am\nRenters must be aged 21 or over\nBirch Lodge 16 DOES NOT have a hot tub\nBirch Lodge 16 is a Pet Free Lodge\n\nOptional/Extra Charges (available on request) Paid Direct to Owner\nEarly check in/late check out available at £20 each- (On Request to Owner Only)\nHigh chair/ travel cot hire - £10 each\n2 x disposable BBQ - £8\nChampagne and chocolates - £45\nProsecco and chocolates - £25\nRose petals - £8\n\nFloor Plan: \nAll on one level\n\n Size: 58 m2. \n \nAmenities: Hair Dryer, Dishwasher, kettle, TV, Balcony, cooking hob, oven, microwave, toaster, fridge, freezer, separate entry, Towels, Private parking, Bed Linen, No Pets Allowed, Smoke Detectors, Heating, Wireless Internet, Rare view, Carbon Monoxide Detector; \nBathroom: toilet, bath with shower; \nBedroom: king size bed; \nBedroom: 2 x single bed;"
+    },
+    "star_rating": 5.0,
+    "tier_id": 0,
+    "guest_controls": {
+      "allows_children": true,
+      "allows_events": false,
+      "allows_infants": true,
+      "allows_pets": false,
+      "allows_smoking": false,
+      "person_capacity": 4,
+      "structured_house_rules": [
+        "No smoking",
+        "No pets",
+        "No parties or events"
+      ],
+      "structured_house_rules_with_tips": [
+        {
+          "key": "is_smoking_allowed_as_host",
+          "text": "No smoking",
+          "airmoji_key": "house_rules_no_smoking"
+        },
+        {
+          "key": "are_pets_allowed_as_host",
+          "text": "No pets",
+          "airmoji_key": "house_rules_no_pets"
+        },
+        {
+          "key": "are_events_allowed_as_host",
+          "text": "No parties or events",
+          "airmoji_key": "house_rules_no_party"
+        }
+      ],
+      "allows_non_china_users": true
+    },
+    "has_special_offer": false,
+    "max_nights": 1125,
+    "min_nights": 1,
+    "price_details": [],
+    "has_we_work_location": false,
+    "is_business_travel_ready": false,
+    "additional_hosts": [],
+    "is_hosted_by_superhost": false,
+    "hometour_rooms": [
+      {
+        "details": [],
+        "highlights_hometour": ["1 king bed"],
+        "highlights_preview": [],
+        "is_shared": true,
+        "id": 38415376,
+        "name": "",
+        "name_with_type": "Bedroom 1",
+        "photos": [],
+        "room_type_id": 1,
+        "icons": [{ "type": "king_bed", "url": "" }]
+      },
+      {
+        "details": [],
+        "highlights_hometour": ["2 single beds"],
+        "highlights_preview": [],
+        "is_shared": true,
+        "id": 38415381,
+        "name": "",
+        "name_with_type": "Bedroom 2",
+        "photos": [],
+        "room_type_id": 1,
+        "icons": [
+          { "type": "single_bed", "url": "" },
+          { "type": "single_bed", "url": "" }
+        ]
+      }
+    ],
+    "hometour_sections": [],
+    "description_locale": "en",
+    "initial_description_author_type": "human",
+    "localized_check_in_time_window": "After 4:00 PM",
+    "localized_check_out_time": "10:00 AM",
+    "city": "Kirroughtree",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "has_host_guidebook": false,
+    "has_local_attractions": false,
+    "lat": 54.96568,
+    "lng": -4.46641,
+    "location_title": "Kirroughtree, United Kingdom",
+    "neighborhood_community_tags": [],
+    "state": "",
+    "paid_growth_remarketing_listing_ids": [33090114],
+    "has_commercial_host_info": false,
+    "review_details_interface": {
+      "review_count": 3,
+      "review_summary": [
+        {
+          "value": 10,
+          "label": "Accuracy",
+          "localized_rating": "5.0",
+          "percentage": 1.0
+        },
+        {
+          "value": 10,
+          "label": "Communication",
+          "localized_rating": "5.0",
+          "percentage": 1.0
+        },
+        {
+          "value": 10,
+          "label": "Cleanliness",
+          "localized_rating": "5.0",
+          "percentage": 1.0
+        },
+        {
+          "value": 10,
+          "label": "Location",
+          "localized_rating": "5.0",
+          "percentage": 1.0
+        },
+        {
+          "value": 10,
+          "label": "Check-in",
+          "localized_rating": "5.0",
+          "percentage": 1.0
+        },
+        {
+          "value": 10,
+          "label": "Value",
+          "localized_rating": "5.0",
+          "percentage": 1.0
+        }
+      ]
+    },
+    "reviews_order": "language_country",
+    "host_quote": "",
+    "host_signature_font": {
+      "url": "https://a0.muscache.com/airbnb/static/temp-fonts/HandsomePro-Normal.otf"
+    },
+    "nearby_airport_distance_descriptions": [],
+    "property_type_in_city": "",
+    "render_tier_id": 0,
+    "is_hotel": false,
+    "show_review_tag": false,
+    "is_representative_inventory": false,
+    "localized_city": "Kirroughtree",
+    "highlights": [
+      {
+        "type": "LISTING_ENTIRE_HOME_PROPERTY_TYPE",
+        "message": "You’ll have the house to yourself.",
+        "headline": "Entire home",
+        "position": "0",
+        "icon": "accomodation_home"
+      },
+      {
+        "type": "LISTING_ENHANCED_CLEANING",
+        "message": "This Host committed to Airbnb's 5-step enhanced cleaning process.",
+        "headline": "Enhanced Clean",
+        "position": "1"
+      },
+      {
+        "type": "LISTING_POPULAR_AMENITY",
+        "message": "Guests often search for this popular amenity",
+        "headline": "Wifi",
+        "position": "2",
+        "icon": "extras_star"
+      },
+      {
+        "type": "LISTING_EXPERIENCED_HOST",
+        "message": "TravelNest has 4113 reviews for other places.",
+        "headline": "Experienced host",
+        "position": "3",
+        "icon": "core_star_full"
+      }
+    ],
+    "highlights_impression_id": "ddcb0661-d8b1-3b56-1a8c-309e5d3aca91",
+    "categorized_preview_amenities": [
+      {
+        "category": "Standard",
+        "amenities": "Wifi, Kitchen, Hair dryer, Heating, TV, and 7 more"
+      },
+      {
+        "category": "Other highlights",
+        "amenities": "Dishwasher, Patio or balcony"
+      }
+    ],
+    "point_of_interests": [],
+    "china_points_of_interest_matcha": {},
+    "page_view_type": "DEFAULT",
+    "preview_tags": [],
+    "see_all_hometour_sections": [],
+    "education_modules": {},
+    "enable_highlights_voting": false,
+    "listing_expectations": [],
+    "localized_listing_expectations": [],
+    "hero_module": { "categorized_photos": [] },
+    "house_rules_module": {
+      "structured_rules": [
+        {
+          "key": "is_smoking_allowed_as_host",
+          "text": "No smoking",
+          "airmoji_key": "house_rules_no_smoking"
+        },
+        {
+          "key": "are_pets_allowed_as_host",
+          "text": "No pets",
+          "airmoji_key": "house_rules_no_pets"
+        },
+        {
+          "key": "are_events_allowed_as_host",
+          "text": "No parties or events",
+          "airmoji_key": "house_rules_no_party"
+        }
+      ],
+      "listing_expectations": [],
+      "additional_rules": "Pets not allowed.",
+      "localized_listing_expectations": []
+    },
+    "reviews_module": {
+      "localized_overall_rating": "5.0",
+      "appreciation_tags": []
+    },
+    "availability_module": {},
+    "additional_house_rules": "Pets not allowed.",
+    "sorted_reviews": [],
+    "document_display_pictures": [],
+    "sections": [],
+    "metadata": {},
+    "p3_impression_id": "ddcb0661-d8b1-3b56-1a8c-309e5d3aca91",
+    "id_str": "33090114",
+    "paid_growth_remarketing_listing_ids_str": ["33090114"]
+  },
+  "metadata": {}
+}
