@@ -1,6 +1,6 @@
-from AirBnbScraper import AirBnbScraper
-from PropertyData import PropertyData
-from ScrapedDataOutput import ScrapedDataOutput
+from data.PropertyData import PropertyData
+from scrapers.AirBnbScraper import AirBnbScraper
+from utils.ScrapedDataOutput import ScrapedDataOutput
 
 SCRAPERS = {"AIRBNB": AirBnbScraper()}
 
@@ -16,4 +16,4 @@ def _run_scrapers() -> dict[str, [PropertyData]]:
 
 if __name__ == "__main__":
     data = _run_scrapers()
-    ScrapedDataOutput.print_property_data_json(data)
+    ScrapedDataOutput.print_json(data)

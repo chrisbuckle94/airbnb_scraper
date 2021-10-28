@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from PropertyData import PropertyData
+from data.PropertyData import PropertyData
 
 
 class AbstractScraper(ABC):

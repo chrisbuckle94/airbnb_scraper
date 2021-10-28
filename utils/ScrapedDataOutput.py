@@ -1,10 +1,10 @@
-from PropertyData import PropertyData
+from data.PropertyData import PropertyData
 
 
 class ScrapedDataOutput:
 
     @staticmethod
-    def print_property_data_json(data: dict[str, [PropertyData]]) -> None:
+    def print_json(data: dict[str, [PropertyData]]) -> None:
         print("---------------")
         for (data_source, property_data) in data.items():
             print(data_source)
