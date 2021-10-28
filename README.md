@@ -6,7 +6,7 @@ It currently only scrapes airbnb, but designed to make scraping new providers ea
 
 ### Installing
 
-* Install Python 3.9
+* Install Python 3.6+
     * virtualenv recommended
 * `pip install -r requirements.txt`
 
@@ -20,6 +20,9 @@ It currently only scrapes airbnb, but designed to make scraping new providers ea
     * airbnb scraper
         * Read listing URL/id's from a JSON file
         * Log errors on early exits/failures in scraper
+    * Scrapers
+        * Add another scraper
+        * Read scrapers to use from a JSON file
     * Data output
         * Output to a JSON file
         * Output each scraper's data separately

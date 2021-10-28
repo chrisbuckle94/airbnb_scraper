@@ -1,3 +1,5 @@
+from typing import Dict, List
+
 from data.PropertyData import PropertyData
 from scrapers.AirBnbScraper import AirBnbScraper
 from utils.ScrapedDataOutput import ScrapedDataOutput
@@ -5,7 +7,7 @@ from utils.ScrapedDataOutput import ScrapedDataOutput
 SCRAPERS = {"AIRBNB": AirBnbScraper()}
 
 
-def _run_scrapers() -> dict[str, [PropertyData]]:
+def _run_scrapers() -> Dict[str, List[PropertyData]]:
     all_scraped_data = {}
 
     for (name, scraper) in SCRAPERS.items():
